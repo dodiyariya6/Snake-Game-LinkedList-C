@@ -1,0 +1,33 @@
+# Compiled Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Build Files
+*.dll
+*.so
+*.a
+*.lib
+
+# Debug Files
+*.dSYM/
+*.stackdump
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Generated Files
+highscore.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
