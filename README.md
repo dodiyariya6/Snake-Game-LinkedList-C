@@ -87,7 +87,7 @@ Snake-Game-DS/
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 ### Compile
 
